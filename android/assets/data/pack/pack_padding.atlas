@@ -1,0 +1,27 @@
+
+pack_padding.png
+size: 102,34
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+tileGreen
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tileRed
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tileblue
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
